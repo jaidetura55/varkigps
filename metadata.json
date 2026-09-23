@@ -1,0 +1,10 @@
+{
+  "name": "VarkiGPS",
+  "description": "A high-precision GPS camera clone featuring real-time watermarking, time verification, and mock location capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
